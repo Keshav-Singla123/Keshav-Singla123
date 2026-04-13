@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Keshav-Singla123.png?size=200" alt="Keshav Singla" width="200" style="border-radius: 50%"/>
+</p>
 # 💫 About Me:
 Hi, I'm Keshav Singla, a passionate Computer Science student and aspiring Full Stack Developer.  <br>I enjoy building web applications using React, Node.js, MongoDB, and JavaScript.  <br>I have strong problem-solving skills and love tackling coding challenges.  <br>I am currently learning Generative AI concepts like RAG, LLM applications, and modern AI tools.  <br>I am always eager to learn new technologies and improve my skills through real projects.<br>
 
